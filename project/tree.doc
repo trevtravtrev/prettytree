@@ -1,0 +1,24 @@
+Folder PATH listing for volume Local Disk
+Volume serial number is 16DE-2F50
+
+{'C:\\Users\\t\\Desktop\\project': 
+	[{'subfolders': ['code']}, 
+		{'files': ['file.txt', 'file1.txt']}], 'C:\\Users\\t\\Desktop\\project\\code': 
+	[{'subfolders': ['moreCode']}, 
+		{'files': ['file2.txt']}], 
+'C:\\Users\\t\\Desktop\\project\\code\\moreCode': 
+	[{'subfolders': []}, 
+		{'files': ['file3.txt']}]}
+
+project:
+|   
+\---code
+    |
+    \---moreCode
+            file3.txt
+    |   file2.txt
+|   file.txt
+|   file1.txt
+|   output.doc
+
+            
