@@ -1,0 +1,2 @@
+cd C:\Users\trevo\Documents\GitHub\prettytree\prettytree
+python argparser.py C:\Users\trevo\Desktop\project -t -b .git venv .idea .pyc pycache
